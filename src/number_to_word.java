@@ -55,28 +55,28 @@ public class number_to_word {
                         System.out.println("Eleven");
                         break;
                     case 2:
-                        System.out.println("Two");
+                        System.out.println("Twelve");
                         break;
                     case 3:
-                        System.out.println("Three");
+                        System.out.println("Thirteen");
                         break;
                     case 4:
-                        System.out.println("Four");
+                        System.out.println("Fourteen");
                         break;
                     case 5:
-                        System.out.println("Five");
+                        System.out.println("Fifteen");
                         break;
                     case 6:
-                        System.out.println("Six");
+                        System.out.println("Sixteen");
                         break;
                     case 7:
-                        System.out.println("Seven");
+                        System.out.println("Seventeen");
                         break;
                     case 8:
-                        System.out.println("Eight");
+                        System.out.println("Eighteen");
                         break;
                     case 9:
-                        System.out.println("Nine");
+                        System.out.println("Nineteen");
                         break;
                     default:
                         return "out of ability";
